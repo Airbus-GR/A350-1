@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Airbus Germany
 
 You can use the [editor on GitHub](https://github.com/EU-Suppliers/A350/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
